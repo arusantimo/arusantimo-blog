@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3719],{2115:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/arusantimo-blog/blog/tags/facebook","allTagsPath":"/arusantimo-blog/blog/tags","count":1,"unlisted":false}')}}]);
