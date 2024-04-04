@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4583],{8198:(e,t,i)=>{i.r(t),i.d(t,{default:()=>l});i(8774);var s=i(4586),n=i(781);i(1107);var a=i(4848);function l(){const{siteConfig:e}=(0,s.A)();return(0,a.jsx)(n.A,{title:`Hello from ${e.title}`,description:"Description will go into a meta tag in <head />"})}}}]);
